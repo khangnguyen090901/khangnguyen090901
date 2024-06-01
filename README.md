@@ -6,8 +6,7 @@
 
 
 - I'm **Developer** | **Programmer** | **Learner**
-- Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
-- Willing to contribute more and more in **Open Source Projects**
+- Currently Learning **Java**, **Python**, **Web Development** 
 
 
 ### Feel Free to Contact me.....
@@ -16,7 +15,6 @@
 	<a href="https://github.com/khangnguyen090901/khangnguyen090901"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="www.linkedin.com/in/ntk991"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100035767489220&locale=vi_VN"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href=""><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
 ### Programming Languages....
@@ -27,11 +25,6 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
-
-
 ----
-Credit: [imakash3011](https://github.com/imakash3011)
+Credit: [khangnguyen090901](https://github.com/khangnguyen090901)
 
-Last Edited on: 19/11/2020
