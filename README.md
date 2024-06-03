@@ -1,7 +1,7 @@
 ## Hi there, I'm Khang
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
 </p>
 
 
